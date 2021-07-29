@@ -1,6 +1,6 @@
 ## <img src="https://cdn.discordapp.com/emojis/672791823156248576.gif?v=1" alt="shootingmind" width="30"/> Greetings
 
-I'm a final year computer engineering student 
+I'm a computer engineering major graduate 
 
 Things I like right now:
 
@@ -9,9 +9,13 @@ Things I like right now:
  - <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280" witdh="20" height="20"/> Java
  - <img src="https://emojis.slackmojis.com/emojis/images/1536564516/4640/laravel.png?1536564516" witdh="20" height="20"/> Laravel
 
+Things I'm learning right now:
+
+ - ![Spring Logo](https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico) Spring Framework
+
 I like to explore a wide array of things, sometimes even unrelated to software engineering or networking.
 
-Oh and here is my my stats because why not. It's dominated by my laravel project's boilerplate code
+Oh and here is my my stats because why not. It's dominated by laravel boilerplate code
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sayyidyofa&show_icons=true&theme=tokyonight)
 
