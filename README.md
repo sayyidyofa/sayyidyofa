@@ -2,7 +2,7 @@
 
 I'm a computer engineering major graduate 
 
-Things I like right now:
+Things I have learned a bit:
 
  - <img src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" witdh="20" height="20"/> TypeScript for web programming
  - ![IE Hammer](https://cdn.discordapp.com/emojis/456923527207976997.png?v=1) Minecraft modding
