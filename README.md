@@ -8,10 +8,11 @@ Things I have learned a bit:
  - ![IE Hammer](https://cdn.discordapp.com/emojis/456923527207976997.png?v=1) Minecraft modding
  - <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280" witdh="20" height="20"/> Java
  - <img src="https://emojis.slackmojis.com/emojis/images/1536564516/4640/laravel.png?1536564516" witdh="20" height="20"/> Laravel
+ - ![Spring Logo](https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico) Spring Framework
 
 Things I'm learning right now:
 
- - ![Spring Logo](https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico) Spring Framework
+ - <img src="https://raw.githubusercontent.com/docker-library/docs/a11c341c57de07fbccfed7b21ea92d4bc40130a2/rust/logo.png"/> Rust Programming Language
 
 I like to explore a wide array of things, sometimes even unrelated to software engineering or networking.
 
