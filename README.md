@@ -12,7 +12,7 @@ Things I have learned a bit:
 
 Things I'm learning right now:
 
- - <img src="https://raw.githubusercontent.com/docker-library/docs/a11c341c57de07fbccfed7b21ea92d4bc40130a2/rust/logo.png"/> Rust Programming Language
+ - <img src="https://raw.githubusercontent.com/docker-library/docs/a11c341c57de07fbccfed7b21ea92d4bc40130a2/rust/logo.png" witdh="20" height="20"/> Rust Programming Language
 
 I like to explore a wide array of things, sometimes even unrelated to software engineering or networking.
 
