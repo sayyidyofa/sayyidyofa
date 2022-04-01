@@ -11,17 +11,3 @@ Things I have learned a bit:
  - ![Spring Logo](https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico) Spring Framework
  - Containerization (Docker, Koobernetes, etc)
 
-Things I'm learning right now:
-
- - <img src="https://raw.githubusercontent.com/docker-library/docs/a11c341c57de07fbccfed7b21ea92d4bc40130a2/rust/logo.png" witdh="20" height="20"/> Rust Programming Language
-
-I like to explore a wide array of things, sometimes even unrelated to software engineering or networking.
-
-Oh and here is my my stats because why not. It's dominated by laravel boilerplate code
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sayyidyofa&show_icons=true&theme=tokyonight)
-
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayyidyofa&layout=compact&theme=tokyonight)
-
-Interested in my professional profile? You are more than welcome to check [my LinkedIn page](https://linkedin.com/in/sayyidyofa)
