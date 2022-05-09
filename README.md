@@ -9,5 +9,10 @@ Things I have learned a bit:
  - <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280" witdh="20" height="20"/> Java
  - <img src="https://emojis.slackmojis.com/emojis/images/1536564516/4640/laravel.png?1536564516" witdh="20" height="20"/> Laravel
  - ![Spring Logo](https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico) Spring Framework
- - Containerization (Docker, Koobernetes, etc)
+ - Containerization (Docker)
+ - Container Deployment (Docker Compose)
+ - Container Orchestration (Koobernetes)
+ - vSphere API
+ - Hashicorp Packer
+ - Hashicorp Terraform
 
