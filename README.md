@@ -1,6 +1,6 @@
 ## <img src="https://cdn.discordapp.com/emojis/672791823156248576.gif?v=1" alt="shootingmind" width="30"/> Greetings
 
-I'm a computer engineering major graduate 
+I'm an engineer
 
 Things I have learned a bit:
 
@@ -16,4 +16,14 @@ Things I have learned a bit:
  - vSphere API
  - Hashicorp Packer
  - Hashicorp Terraform
+ - Hashicorp Vault
+ - Prometheus
+ - Grafana
+ - OpenTelemetry
+ - Nestjs
+ - ElysiaJS
+ - Cloudflare Workers
+ - Apache Flink
+ - Elasticsearch
+ - Redis
 
